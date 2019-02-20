@@ -1,0 +1,1 @@
+LINUX is developed by *Linus Torvalds* under a trial to develop UNIX like OS. People usually gets confuse and understands LINUX as an OS which is absolutely wrong. LINUX is a **Kernel** rather than an OS and *Ubuntu, Debian, Kali* etc. are the contributors in the Kernel and developed OS.
